@@ -1,0 +1,8 @@
+{
+  "data": {
+    "api_base_url": "https://api.prosto.network",
+    "version": 2,
+    "api_base_url_dev": "https://api-dev.prosto.network"
+  },
+  "signature": "eLgFT1a4XNBP9LYa3+VSjjq4/Mwz65KubsQs5CIFi6qpqM22LFfjCiHPolshV3X1P5wC3C5JsHSn76H/kayhDQ=="
+}
