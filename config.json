@@ -1,8 +1,7 @@
 {
   "data": {
     "api_base_url": "https://api.prosto.network",
-    "version": 6,
-    "api_base_url_dev": "https://api-dev.prosto.network"
+    "version": 8
   },
-  "signature": "nNruewm1cjoJ/gb/WKnDD5ZmxDLTuBCq3fnYRkb3nQmhTYBWD+821icsAgn75u2nFUJuh3GKw7gh0e0rYjRtDw=="
+  "signature": "2uQ9uemGMkBbPx/OnkTZZsoLsVkKSe90vvBS8yeUH+BTuWSF+k7OkyiKB1seJc8J2ufiXIsx06uySseDx0XuCA=="
 }
