@@ -1,12 +1,21 @@
 {
   "data": {
-    "version": 12,
+    "version": 13,
     "endpoints": [
       {
         "url": "https://api.prosto.network"
       },
       {
         "url": "https://api.prsto.online"
+      },
+      {
+        "url": "https://api.prst.beer"
+      },
+      {
+        "url": "https://api.prst.click"
+      },
+      {
+        "url": "https://api.prst.cloud"
       },
       {
         "host": "api.prosto.network",
@@ -23,5 +32,5 @@
     ],
     "api_base_url": "https://api.prosto.network"
   },
-  "signature": "iosxdDU5nCeowz0b+wDNcRHyhnZ3wQu4czqRYQKJRYaASUgSJKjaKlV1NhdtVIoASN1tlct3Y+W7lmk5FE/YBQ=="
+  "signature": "7+Hi4zCTGH+uJhbpbev9xAXO3biTLdbq4I9uC/Txtgr6xdYzSoTfAOWN3uRMRQDtAAIIrjinJ1FqQhJeeTd/AQ=="
 }
