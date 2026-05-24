@@ -1,6 +1,9 @@
 [
   {"url": "https://api.prosto.network"},
   {"url": "https://api.prsto.online"},
+  {"url": "https://api.prst.beer"},
+  {"url": "https://api.prst.click"},
+  {"url": "https://api.prst.cloud"},
   {"host": "api.prosto.network", "ip": "150.251.152.198", "port": 443, "scheme": "https"},
   {"host": "api.prsto.online", "ip": "89.125.17.104", "port": 443, "scheme": "https"}
 ]
