@@ -4,6 +4,9 @@
   {"url": "https://api.prst.beer"},
   {"url": "https://api.prst.click"},
   {"url": "https://api.prst.cloud"},
-  {"host": "api.prosto.network", "ip": "150.251.152.198", "port": 443, "scheme": "https"},
-  {"host": "api.prsto.online", "ip": "89.125.17.104", "port": 443, "scheme": "https"}
+  {"host": "api.prsto.online", "ip": "150.251.152.198", "port": 443, "scheme": "https"},
+  {"host": "api.prsto.online", "ip": "89.125.17.104", "port": 443, "scheme": "https"},
+  {"host": "api.prsto.online", "ip": "194.87.55.84", "port": 443, "scheme": "https"},
+  {"host": "api.prsto.online", "ip": "89.125.79.109", "port": 443, "scheme": "https"},
+  {"host": "api.prsto.online", "ip": "87.58.213.176", "port": 443, "scheme": "https"}
 ]
