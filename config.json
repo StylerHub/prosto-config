@@ -1,9 +1,9 @@
 {
   "data": {
-    "version": 16,
+    "version": 17,
     "endpoints": [
       {
-        "url": "https://api.prosto.network"
+        "url": "https://api.prosto.in"
       },
       {
         "url": "https://api.prsto.online"
@@ -48,7 +48,7 @@
         "ip": "87.58.213.176"
       }
     ],
-    "api_base_url": "https://api.prosto.network"
+    "api_base_url": "https://api.prosto.in"
   },
-  "signature": "AcgnPZgobgDF5auvivSAmwa8lx3St/w3FLCIPLrAAW51CLGw1XguLBscasOd0YgMoVx2HMe9MbKAdWzMIoCTAQ=="
+  "signature": "enC05ijv2SzrsWWeSM0w77Qacx428Ldj2eR6EWM90Vy0El4W6DLvNXrkkya4ov2umZhlQ+LRtpoxMsu6FKyvBw=="
 }
