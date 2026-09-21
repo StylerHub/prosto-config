@@ -1,6 +1,6 @@
 {
   "data": {
-    "version": 17,
+    "version": 18,
     "endpoints": [
       {
         "url": "https://api.prosto.in"
@@ -21,7 +21,7 @@
         "host": "api.prsto.online",
         "port": 443,
         "scheme": "https",
-        "ip": "150.251.152.198"
+        "ip": "89.125.126.70"
       },
       {
         "host": "api.prsto.online",
@@ -33,22 +33,34 @@
         "host": "api.prsto.online",
         "port": 443,
         "scheme": "https",
-        "ip": "194.87.55.84"
+        "ip": "87.58.205.120"
+      },
+      {
+        "host": "api.prsto.online",
+        "port": 443,
+        "scheme": "https",
+        "ip": "194.87.126.42"
+      },
+      {
+        "host": "api.prsto.online",
+        "port": 443,
+        "scheme": "https",
+        "ip": "163.5.180.121"
+      },
+      {
+        "host": "api.prsto.online",
+        "port": 443,
+        "scheme": "https",
+        "ip": "144.31.61.198"
       },
       {
         "host": "api.prsto.online",
         "port": 443,
         "scheme": "https",
         "ip": "89.125.79.109"
-      },
-      {
-        "host": "api.prsto.online",
-        "port": 443,
-        "scheme": "https",
-        "ip": "87.58.213.176"
       }
     ],
     "api_base_url": "https://api.prosto.in"
   },
-  "signature": "enC05ijv2SzrsWWeSM0w77Qacx428Ldj2eR6EWM90Vy0El4W6DLvNXrkkya4ov2umZhlQ+LRtpoxMsu6FKyvBw=="
+  "signature": "bI4/qSq8ETVpF6HsYAJGEdzjALVXI3XJcDVg0ErbjZr300+pDLkscl71SoHdO9dLZiWAFraIwdz+C7/6lnr0CA=="
 }
