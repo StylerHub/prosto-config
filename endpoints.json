@@ -1,12 +1,14 @@
 [
-  {"url": "https://api.prosto.network"},
+  {"url": "https://api.prosto.in"},
   {"url": "https://api.prsto.online"},
   {"url": "https://api.prst.beer"},
   {"url": "https://api.prst.click"},
   {"url": "https://api.prst.cloud"},
-  {"host": "api.prsto.online", "ip": "150.251.152.198", "port": 443, "scheme": "https"},
+  {"host": "api.prsto.online", "ip": "89.125.126.70", "port": 443, "scheme": "https"},
+  {"host": "api.prsto.online", "ip": "89.125.188.221", "port": 443, "scheme": "https"},
   {"host": "api.prsto.online", "ip": "89.125.17.104", "port": 443, "scheme": "https"},
-  {"host": "api.prsto.online", "ip": "194.87.55.84", "port": 443, "scheme": "https"},
-  {"host": "api.prsto.online", "ip": "89.125.79.109", "port": 443, "scheme": "https"},
-  {"host": "api.prsto.online", "ip": "87.58.213.176", "port": 443, "scheme": "https"}
+  {"host": "api.prsto.online", "ip": "87.58.205.120", "port": 443, "scheme": "https"},
+  {"host": "api.prsto.online", "ip": "194.87.126.42", "port": 443, "scheme": "https"},
+  {"host": "api.prsto.online", "ip": "163.5.180.121", "port": 443, "scheme": "https"},
+  {"host": "api.prsto.online", "ip": "89.125.79.109", "port": 443, "scheme": "https"}
 ]
