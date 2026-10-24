@@ -1,6 +1,6 @@
 {
   "data": {
-    "version": 22,
+    "version": 23,
     "endpoints": [
       {
         "url": "https://api.prosto.in"
@@ -66,7 +66,15 @@
         "ip": "89.125.79.109"
       }
     ],
+    "telemetry": {
+      "enabled": true,
+      "sampling": {
+        "connect_result_success": 0.1
+      },
+      "queue_limit": 200,
+      "batch_limit": 50
+    },
     "api_base_url": "https://api.prosto.in"
   },
-  "signature": "7HATQR8tavHldos05sCp4ODSUObavktTY12g5w3RJjEzIeqterCgwAL4e0KVV8ffssz5twVYUeltlE23me8HBQ=="
+  "signature": "73GONZESj3oisQBgBttvEXiEmTFNKC0AYxRQSljkdTdcSvduU+163XXCQLotVmRd5W6EsC13VsepOleVrrfnCg=="
 }
