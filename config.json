@@ -1,6 +1,6 @@
 {
   "data": {
-    "version": 23,
+    "version": 24,
     "endpoints": [
       {
         "url": "https://api.prosto.in"
@@ -76,5 +76,5 @@
     },
     "api_base_url": "https://api.prosto.in"
   },
-  "signature": "73GONZESj3oisQBgBttvEXiEmTFNKC0AYxRQSljkdTdcSvduU+163XXCQLotVmRd5W6EsC13VsepOleVrrfnCg=="
+  "signature": "sVVTa/d+E2Z6fBMNzB8lwWLxzPgnZj9dywwFrzdl9n9uBAw7rsOv6MRux16p8up8sLl49V6mO//m3P4GU3hsDQ=="
 }
