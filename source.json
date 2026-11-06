@@ -8,7 +8,8 @@
     {"host": "api.prsto.online", "ip": "91.108.239.88", "port": 443, "scheme": "https"},
     {"host": "api.prsto.online", "ip": "89.125.188.146", "port": 443, "scheme": "https"},
     {"host": "api.prsto.online", "ip": "87.58.205.120", "port": 443, "scheme": "https"},
-    {"host": "api.prsto.online", "ip": "163.5.180.121", "port": 443, "scheme": "https"}
+    {"host": "api.prsto.online", "ip": "163.5.180.121", "port": 443, "scheme": "https"},
+    {"host": "api.prsto.online", "ip": "162.35.245.156", "port": 443, "scheme": "https"}
   ],
   "telemetry": {
     "enabled": true,
