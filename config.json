@@ -1,6 +1,6 @@
 {
   "data": {
-    "version": 36,
+    "version": 37,
     "endpoints": [
       {
         "url": "https://api.prosto.in"
@@ -27,19 +27,19 @@
         "host": "api.prsto.online",
         "port": 443,
         "scheme": "https",
-        "ip": "91.236.186.194"
+        "ip": "78.17.74.104"
       },
       {
         "host": "api.prsto.online",
         "port": 443,
         "scheme": "https",
-        "ip": "201.8.80.145"
+        "ip": "89.37.192.19"
       },
       {
         "host": "api.prsto.online",
         "port": 443,
         "scheme": "https",
-        "ip": "103.110.64.241"
+        "ip": "192.124.181.183"
       }
     ],
     "telemetry": {
@@ -52,5 +52,5 @@
     },
     "api_base_url": "https://api.prosto.in"
   },
-  "signature": "Kw+yKyUnL/3IoRqxXDkyF5kc9/Qoo0B8vqHPddETXVSNbQ14Bhjk6FrXkP3HfAiLYf/M058tRWlpFNARlR0OCw=="
+  "signature": "dXILLuciZbpWRZpFdqitjxhv+eP1gPl21plDRoD2GbDimCEPrS2eXvVWnzQM3M6gOjDSS6sYP+iYF8HvIijQAw=="
 }
