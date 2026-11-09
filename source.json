@@ -7,7 +7,6 @@
     {"url": "https://api.prst.cloud"},
     {"host": "api.prsto.online", "ip": "132.243.235.222", "port": 443, "scheme": "https"},
     {"host": "api.prsto.online", "ip": "78.17.74.104", "port": 443, "scheme": "https"},
-    {"host": "api.prsto.online", "ip": "89.37.192.19", "port": 443, "scheme": "https"},
     {"host": "api.prsto.online", "ip": "192.124.181.183", "port": 443, "scheme": "https"}
   ],
   "telemetry": {
